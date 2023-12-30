@@ -4,6 +4,10 @@
   min-height: 100vh;
 }
 
+body{
+  background-image: linear-gradient(109.6deg, rgb(19, 55, 38) 11.2%, rgb(26, 119, 100) 91.1%);
+}
+
 .main{
   flex-grow: 1;
 }
